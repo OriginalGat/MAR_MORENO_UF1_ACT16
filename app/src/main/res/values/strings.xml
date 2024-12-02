@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Actividad16</string>
+    <string name="verde">Verde</string>
+    <string name="rojo">Rojo</string>
+    <string name="azul">Azul</string>
+    <string name="volver">volver</string>
+    <string name="_0_255_0">(0, 255, 0)</string>
+    <string name="_255_0_0">(255, 0, 0)</string>
+    <string name="_0_0_255">(0, 0, 255)</string>
+</resources>
